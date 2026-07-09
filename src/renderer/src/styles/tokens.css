@@ -1,0 +1,29 @@
+:root {
+  --sc-bg:            #121212;
+  --sc-bg-elevated:   #1a1a1a;
+  --sc-bg-card:       #212121;
+  --sc-bg-hover:      #2a2a2a;
+  --sc-bg-active:     #333333;
+
+  --sc-text:          #ffffff;
+  --sc-text-muted:    #999999;
+  --sc-text-faint:    #666666;
+
+  --sc-orange:        #ff5500;
+  --sc-orange-hover:  #ff7733;
+  --sc-orange-dim:    rgba(255,85,0,0.15);
+
+  --sc-border:        #282828;
+  --sc-border-light:  #333333;
+
+  --sc-radius-sm:     4px;
+  --sc-radius-md:     8px;
+  --sc-radius-lg:     12px;
+  --sc-radius-xl:     16px;
+
+  --sc-font:         'Inter', -apple-system, 'Segoe UI', sans-serif;
+
+  --titlebar-h:       38px;
+  --sidebar-w:        220px;
+  --player-h:         72px;
+}
